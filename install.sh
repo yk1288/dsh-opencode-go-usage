@@ -3,7 +3,7 @@
 set -e
 
 cd ~/.dsh/profiles/web
-pnpm add https://github.com/yk1288/dsh-opencode-go-usage.git
+pnpm add @yk1288/dsh-opencode-go-usage
 
 # 创建凭据文件（如果不存在）
 if [ ! -f ~/.opencode-go-usage.json ]; then

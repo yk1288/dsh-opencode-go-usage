@@ -1,5 +1,5 @@
 {
-  "name": "dsh-opencode-go-usage",
+  "name": "@yk1288/dsh-opencode-go-usage",
   "version": "0.1.0",
   "description": "DSH plugin to display OpenCode Go usage and cost in sidebar",
   "type": "module",

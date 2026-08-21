@@ -35,7 +35,7 @@ curl -fsSL https://raw.githubusercontent.com/yk1288/dsh-opencode-go-usage/main/i
 cd ~/.dsh/profiles/web
 
 # 添加插件依赖
-pnpm add https://github.com/yk1288/dsh-opencode-go-usage.git
+pnpm add @yk1288/dsh-opencode-go-usage
 ```
 
 安装后重启 DSH：
