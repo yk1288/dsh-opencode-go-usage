@@ -5,3 +5,4 @@ dist/
 .npm-cache/
 .dsh-local/
 *.log
+*.tgz
