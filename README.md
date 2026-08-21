@@ -15,7 +15,7 @@ DSH 插件：在侧边栏底部显示 OpenCode Go 用量徽章。
 ### 一键安装（推荐）
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/huangwei/dsh-opencode-go-usage/main/install.sh | bash
+curl -fsSL https://raw.githubusercontent.com/yk1288/dsh-opencode-go-usage/main/install.sh | bash
 ```
 
 ### 手动安装
@@ -25,7 +25,7 @@ curl -fsSL https://raw.githubusercontent.com/huangwei/dsh-opencode-go-usage/main
 cd ~/.dsh/profiles/web
 
 # 添加插件依赖
-pnpm add https://github.com/huangwei/dsh-opencode-go-usage.git
+pnpm add https://github.com/yk1288/dsh-opencode-go-usage.git
 ```
 
 安装后重启 DSH：
@@ -85,7 +85,7 @@ export OPENCODE_GO_AUTH_COOKIE="你的 auth cookie 值"
 
 ```bash
 # 克隆仓库
-git clone https://github.com/huangwei/dsh-opencode-go-usage.git
+git clone https://github.com/yk1288/dsh-opencode-go-usage.git
 cd dsh-opencode-go-usage
 
 # 安装依赖

@@ -75,11 +75,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/huangwei/dsh-opencode-go-usage.git"
+    "url": "https://github.com/yk1288/dsh-opencode-go-usage.git"
   },
-  "homepage": "https://github.com/huangwei/dsh-opencode-go-usage#readme",
+  "homepage": "https://github.com/yk1288/dsh-opencode-go-usage#readme",
   "bugs": {
-    "url": "https://github.com/huangwei/dsh-opencode-go-usage/issues"
+    "url": "https://github.com/yk1288/dsh-opencode-go-usage/issues"
   },
   "author": "huangwei",
   "keywords": [
